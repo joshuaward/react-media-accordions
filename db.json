@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Janice Hosenstein"
+    },
+    {
+      "name": "Marc White",
+      "id": 2
+    },
+    {
+      "name": "Vanessa Blick",
+      "id": 3
+    },
+    {
+      "name": "Pedro Herzog",
+      "id": 4
+    },
+    {
+      "name": "Bobbie Schamberger Sr.",
+      "id": 6
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Gorgeous Granite Pizza",
+      "id": 12
+    },
+    {
+      "userId": 2,
+      "title": "Licensed Steel Cheese",
+      "id": 13
+    },
+    {
+      "userId": 3,
+      "title": "Fantastic Bronze Towels",
+      "id": 14
+    },
+    {
+      "userId": 4,
+      "title": "Bespoke Metal Towels",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Handmade Wooden Cheese",
+      "id": 17
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=76997",
+      "id": 1
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1284",
+      "id": 2
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=69822",
+      "id": 3
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=660",
+      "id": 4
+    }
+  ]
+}
